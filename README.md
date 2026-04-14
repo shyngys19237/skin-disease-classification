@@ -60,6 +60,8 @@ Baseline performance on the held-out test set:
 - `app.py` — Gradio application for inference
 - `requirements.txt` — Python dependencies
 - `class_names.json` — class label mapping
+- `README.md` — project description and usage instructions
+- `test_metrics.json` — saved evaluation metrics on the test set
 
 ## Limitations
 - This is **not a medical diagnosis system**
